@@ -28,6 +28,10 @@ It accepts a natural language query and returns a structured research report inc
 
 ---
 
+## 🔍 Just type in a query like - "what is the population of France in 2024 "
+
+and get back a structured summary, verified sources, tools used, and even save the output to a local file — all handled by an intelligent agent.
+
 ## 📂 Project Structure
 
 ├── main.py # Entry point for the assistant
