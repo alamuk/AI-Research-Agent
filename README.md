@@ -34,12 +34,16 @@ and get back a structured summary, verified sources, tools used, and even save t
 
 ## 📂 Project Structure
 
-├── main.py # Entry point for the assistant
+├── main.py  # Entry point for the assistant
+
 ├── tools.py # Tool definitions (search, wiki, save)
+
 ├── .env # API keys and environment variables
+
 ├── requirements.txt # Dependencies
+
 ├── research_output.txt # (Generated) Output log file
-└── README.md # You're here!
+
 
 Create and activate a virtual environment:
 
